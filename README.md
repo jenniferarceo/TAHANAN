@@ -1,0 +1,2 @@
+# TAHANAN
+TAHANAN means “home” in Tagalog. The website is designed for users who want to travel to the Philippines and learn more about the country. It provides them with the tools and resources needed to help them plan and book their trip and make themselves feel at home. 
